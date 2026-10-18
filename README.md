@@ -49,7 +49,7 @@ fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
 <tr>
   <td align="center" width="170"><b>⚡ Embedded & IoT</b></td>
   <td align="center" width="170"><b>🎨 Web Frontend</b></td>
-  <td align="center" width="170"><b>📐 CAD & EDA (Circuits)</b></td>
+  <td align="center" width="170"><b>📐 CAD, EDA & Drone</b></td>
   <td align="center" width="170"><b>🧰 Tools & Platforms</b></td>
 </tr>
 <tr>
@@ -68,12 +68,12 @@ fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
     <img src="https://skillicons.dev/icons?i=vite&theme=dark" />
   </td>
   <td align="center" valign="top">
-    <img src="https://img.shields.io/badge/Fusion_360-F68212?style=flat-square&logo=autodesk&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/Inventor-E51937?style=flat-square&logo=autodesk&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/Proteus-005B94?style=flat-square" /><br>
-    <img src="https://img.shields.io/badge/EasyEDA-1976D2?style=flat-square" /><br>
-    <img src="https://img.shields.io/badge/Fritzing-5A0A47?style=flat-square" /><br>
-    <img src="https://img.shields.io/badge/Mission_Planner-000000?style=flat-square" />
+    <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/fusion360.png" width="44" height="44" title="Autodesk Fusion 360" alt="Fusion 360" />&nbsp;
+    <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/inventor.png" width="44" height="44" title="Autodesk Inventor" alt="Autodesk Inventor" /><br>
+    <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/proteus.png" width="44" height="44" title="Proteus Design Suite" alt="Proteus" />&nbsp;
+    <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/easyeda.png" width="44" height="44" title="EasyEDA" alt="EasyEDA" /><br>
+    <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/fritzing.png" width="44" height="44" title="Fritzing" alt="Fritzing" />&nbsp;
+    <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/missionplanner.png" width="44" height="44" title="Mission Planner" alt="Mission Planner" />
   </td>
   <td align="center" valign="top">
     <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /><br>
