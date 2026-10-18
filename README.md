@@ -57,15 +57,15 @@ fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
     <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=python,arduino&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=raspberrypi,linux&theme=dark" /><br>
-    <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /><br>
-    <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" /><br>
+    <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/esp32.png" width="44" height="44" title="ESP32" alt="ESP32" />&nbsp;
+    <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/stm32.png" width="44" height="44" title="STM32" alt="STM32" /><br>
     <img src="https://img.shields.io/badge/Jetson_Orin-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   </td>
   <td align="center" valign="top">
     <img src="https://skillicons.dev/icons?i=html,css&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=vite,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vite,npm&theme=dark" />
   </td>
   <td align="center" valign="top">
     <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/fusion360.png" width="44" height="44" title="Autodesk Fusion 360" alt="Fusion 360" />&nbsp;
@@ -77,7 +77,7 @@ fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
   </td>
   <td align="center" valign="top">
     <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" /><br>
     <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/railway.svg" width="44" height="44" title="Railway" alt="Railway" />&nbsp;
     <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/vercel.svg" width="44" height="44" title="Vercel" alt="Vercel" />
   </td>
