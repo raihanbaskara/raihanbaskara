@@ -65,7 +65,7 @@ fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
     <img src="https://skillicons.dev/icons?i=html,css&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=vite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vite,figma&theme=dark" />
   </td>
   <td align="center" valign="top">
     <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/fusion360.png" width="44" height="44" title="Autodesk Fusion 360" alt="Fusion 360" />&nbsp;
@@ -77,8 +77,9 @@ fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
   </td>
   <td align="center" valign="top">
     <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=railway,vercel&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" /><br>
+    <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/railway.svg" width="44" height="44" title="Railway" alt="Railway" />&nbsp;
+    <img src="https://raw.githubusercontent.com/raihanbaskara/raihanbaskara/main/assets/icons/vercel.svg" width="44" height="44" title="Vercel" alt="Vercel" />
   </td>
 </tr>
 </table>
