@@ -27,7 +27,7 @@ fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
   <a href="mailto:raihannauvalazis9c@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-raihannauvalazis9c@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/raihanbaskara/">
+  <a href="https://www.linkedin.com/in/raihan-nauval-aziz-04a78a322/">
     <img src="https://img.shields.io/badge/LinkedIn-Raihan_Nauval_Aziz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/raihanbaskara">
