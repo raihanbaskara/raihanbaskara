@@ -49,8 +49,8 @@ fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
 <tr>
   <td align="center" width="170"><b>⚡ Embedded & IoT</b></td>
   <td align="center" width="170"><b>🎨 Web Frontend</b></td>
-  <td align="center" width="170"><b>📐 CAD, EDA & Drone</b></td>
-  <td align="center" width="170"><b>🧰 Tools & Platforms</b></td>
+  <td align="center" width="170"><b>🛠️ Engineering Tools</b></td>
+  <td align="center" width="170"><b>☁️ Platforms & Cloud</b></td>
 </tr>
 <tr>
   <td align="center" valign="top">
