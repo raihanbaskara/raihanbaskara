@@ -13,7 +13,7 @@
 ```yaml
 name: Raihan Nauval Aziz
 location: Indonesia 🇮🇩
-education: Teknik Elektro | Universitas Negeri Malang
+education: Pend Teknik Elektro | Universitas Negeri Malang
 focus: IoT, Embedded Systems, Robotics & Modern Web
 currently_learning: Backend Development (PHP, Laravel, MySQL) & Framer
 fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
