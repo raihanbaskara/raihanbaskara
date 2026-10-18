@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Hi,%20I'm%20Raihan%20Baskara&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=Frontend%20Developer%20%7C%20Full-Stack%20Enthusiast&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Hi,%20I'm%20Raihan%20Baskara&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=Electrical%20Engineer%20%7C%20IoT%20and%20Web%20Developer&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=550&lines=Mahasiswa+Universitas+Negeri+Malang+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;Frontend+and+React+Specialist+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&lines=Mahasiswa+Teknik+Elektro+UM+%E2%9A%A1;Hardware+and+Modern+Web+Developer+%F0%9F%9A%80;Embedded+Systems+and+IoT+Builder+%F0%9F%A4%96;Robotics+and+Web+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,10 +13,10 @@
 ```yaml
 name: Raihan Baskara
 location: Indonesia 🇮🇩
-education: Universitas Negeri Malang
-focus: Frontend & Full-Stack Web Development
-currently_learning: React.js, Next.js, TypeScript, Modern UI/UX
-fun_fact: I turn coffee & curiosity into clean code ☕ → 💻
+education: Teknik Elektro | Universitas Negeri Malang
+focus: IoT, Embedded Systems, Robotics & Modern Web
+currently_learning: Backend Development (PHP, Laravel, MySQL) & Framer
+fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
 ```
 
 <!-- ══════════════════════════════════════ CONNECT ══════════════════════════════════════ -->
@@ -42,40 +42,55 @@ fun_fact: I turn coffee & curiosity into clean code ☕ → 💻
 
 <!-- ══════════════════════════════════════ TECH STACK ══════════════════════════════════════ -->
 
-<h2>💻 Tech Stack</h2>
+<h2>💻 Tech Stack & Engineering Toolkit</h2>
 
 <div align="center">
 <table>
 <tr>
-  <td align="center" width="150"><b>⚡ Core</b></td>
-  <td align="center" width="150"><b>🎨 Frontend</b></td>
-  <td align="center" width="150"><b>🛠 Backend</b></td>
-  <td align="center" width="150"><b>🧰 Tools</b></td>
+  <td align="center" width="170"><b>⚡ Embedded & IoT</b></td>
+  <td align="center" width="170"><b>🎨 Web Frontend</b></td>
+  <td align="center" width="170"><b>📐 CAD & EDA (Circuits)</b></td>
+  <td align="center" width="170"><b>🧰 Tools & Platforms</b></td>
 </tr>
 <tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  <td align="center" valign="top">
+    <img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=python,arduino&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=raspberrypi,linux&theme=dark" /><br>
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/Jetson_Orin-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   </td>
-  <td align="center">
+  <td align="center" valign="top">
     <img src="https://skillicons.dev/icons?i=html,css&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=vite&theme=dark" />
   </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=express,laravel&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=prisma,php&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+  <td align="center" valign="top">
+    <img src="https://img.shields.io/badge/Fusion_360-F68212?style=flat-square&logo=autodesk&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/Inventor-E51937?style=flat-square&logo=autodesk&logoColor=white" /><br>
+    <img src="https://img.shields.io/badge/Proteus-005B94?style=flat-square" /><br>
+    <img src="https://img.shields.io/badge/EasyEDA-1976D2?style=flat-square" /><br>
+    <img src="https://img.shields.io/badge/Fritzing-5A0A47?style=flat-square" /><br>
+    <img src="https://img.shields.io/badge/Mission_Planner-000000?style=flat-square" />
   </td>
-  <td align="center">
+  <td align="center" valign="top">
     <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=vercel,npm&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" /><br>
+    <img src="https://skillicons.dev/icons?i=railway,vercel&theme=dark" />
   </td>
 </tr>
 </table>
 </div>
+
+<p align="center">
+  <b>🌱 Currently Learning & Exploring:</b><br>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
+</p>
 
 <!-- ══════════════════════════════════════ GITHUB STATS ══════════════════════════════════════ -->
 
