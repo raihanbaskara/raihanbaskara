@@ -113,7 +113,7 @@ fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihanbaskara&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=7dd3fc&area=true&area_color=0ea5e9&hide_border=true" width="95%" alt="Activity Graph" />
+    <img src="https://github-activity-graph.luckylinux.dev/graph?username=raihanbaskara&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=7dd3fc&area=true&area_color=0ea5e9&hide_border=true" width="95%" alt="Activity Graph" />
   </a>
 </p>
 
