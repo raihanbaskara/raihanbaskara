@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Hi,%20I'm%20Raihan%20Baskara&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=Electrical%20Engineer%20%7C%20IoT%20and%20Web%20Developer&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Hi,%20I'm%20Raihan%20Nauval%20Aziz&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=Electrical%20Engineer%20%7C%20IoT%20and%20Web%20Developer&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&lines=Mahasiswa+Teknik+Elektro+UM+%E2%9A%A1;Hardware+and+Modern+Web+Developer+%F0%9F%9A%80;Embedded+Systems+and+IoT+Builder+%F0%9F%A4%96;Robotics+and+Web+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=650&lines=Mahasiswa+Teknik+Elektro+Universitas+Negeri+Malang+%E2%9A%A1;Hardware+and+Modern+Web+Developer+%F0%9F%9A%80;Embedded+Systems+and+IoT+Builder+%F0%9F%A4%96;Robotics+and+Web+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">&nbsp; About Me</h2>
 
 ```yaml
-name: Raihan Baskara
+name: Raihan Nauval Aziz
 location: Indonesia 🇮🇩
 education: Teknik Elektro | Universitas Negeri Malang
 focus: IoT, Embedded Systems, Robotics & Modern Web
@@ -28,7 +28,7 @@ fun_fact: Bridging the physical hardware world with modern web ⚡ ⇄ 💻
     <img src="https://img.shields.io/badge/Gmail-raihannauvalazis9c@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/raihanbaskara/">
-    <img src="https://img.shields.io/badge/LinkedIn-Raihan_Baskara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Raihan_Nauval_Aziz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://github.com/raihanbaskara">
     <img src="https://img.shields.io/badge/GitHub-raihanbaskara-181717?style=for-the-badge&logo=github&logoColor=white" />
